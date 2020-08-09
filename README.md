@@ -1,5 +1,5 @@
 # HDL_DUMP Batch Utility V1.0
-Batch utility to automate installing of PS2 ISO files at once onto a PS2 formatted hard drive and is written in .Net Core 3.0.
+Batch utility to automate installing of multiple PS2 ISO files at once onto a PS2 formatted hard drive and is written in .Net Core 3.0.
 
 # Instructions
 -The batch installer will install any .iso files present in the working directory of the batch installer.
